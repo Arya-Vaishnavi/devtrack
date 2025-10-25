@@ -4,7 +4,7 @@ A simple task management web app built with React, Node.js, and MongoDB.
 
 🚀 Live Demo
 
-http://devtrack-client-frontend.vercel.app
+https://devtrack-two.vercel.app
 
 🛠️ Tech Stack
 
