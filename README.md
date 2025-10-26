@@ -1,20 +1,24 @@
-🧩 DevTrack
+# 🧩 DevTrack
 
-A simple task management web app built with React, Node.js, and MongoDB.
+A simple task management web app built with **MERN Stack** (React, Express, Node.js, and MongoDB).
 
-🚀 Live Demo
+**🚀 Live Demo**
 
 https://devtrack-two.vercel.app
 
-🛠️ Tech Stack
+---
 
-Frontend: React, Tailwind CSS, Axios
+## 🛠️ Tech Stack
 
-Backend: Node.js, Express, MongoDB
+**Frontend**: React, Tailwind CSS, Axios
 
-Deployment: Vercel + Render
+**Backend**: Node.js, Express, MongoDB
 
-⚙️ Features
+**Deployment**: Vercel + Render
+
+---
+
+## ⚙️ Features
 
 Add, update, and delete tasks
 
@@ -22,6 +26,8 @@ Mark tasks as completed or pending
 
 Simple and responsive UI
 
-👩‍💻 Author
+---
+
+## 👩‍💻 Author
 
 Vaishnavi Arya https://www.linkedin.com/in/vaishnavi-arya-20v25/
