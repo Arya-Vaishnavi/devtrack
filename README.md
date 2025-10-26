@@ -24,4 +24,4 @@ Simple and responsive UI
 
 👩‍💻 Author
 
-Vaishnavi Arya https://www.linkedin.com/in/vaishnavi-arya-ai/
+Vaishnavi Arya https://www.linkedin.com/in/vaishnavi-arya-20v25/
